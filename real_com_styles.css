@@ -1,0 +1,18 @@
+
+.sounds {
+    margin:auto;
+    width:20%;
+    padding:100px;
+}
+.bill {
+    position:absolute;
+    width:30%;
+    bottom:1px;
+}
+.real {
+    text-align: center;
+    margin:0px;
+    font-family: 'Comic Sans MS';
+    font-size: 250px;
+    background-image: linear-gradient(palegreen, white)
+}
